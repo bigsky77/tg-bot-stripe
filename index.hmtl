@@ -1,4 +1,8 @@
+<html ng-app="custom-webapp-ui" lang="en">
+<head>
 <script async src="https://js.stripe.com/v3/pricing-table.js"></script>
 <stripe-pricing-table pricing-table-id="prctbl_1NcWXkEPWZ5HDCnLNkBCsC2E"
 publishable-key="pk_live_51NcWRqEPWZ5HDCnLV2R8HCOy6BJaXVRkluJxEYIchiMZEYrertv4shd66r4YSccrcIZ6uc5x08YBvrEHkXKlAVaP00FtyX5eXw">
 </stripe-pricing-table>
+</head>
+</html>
